@@ -3,13 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1523975269066">
+      <file name="/Dummy.txt" timestamp="1523978906070">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1523976311358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Python/Python3.x/SplitExcel.py" timestamp="1523978364130" />
+      <file name="E:/Python/Python3.x/SplitExcel.py" timestamp="1523979080679">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+      </file>
+      <file name="/" timestamp="1523978981716">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers />
