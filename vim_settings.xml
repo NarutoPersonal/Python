@@ -18,7 +18,7 @@
       <file name="/fragment.py" timestamp="1524068738968">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/Python/Python3.x/SplitExcel.py" timestamp="1524150287586">
+      <file name="E:/Python/Python3.x/SplitExcel.py" timestamp="1524151950778">
         <mark key="[" line="24" column="7" />
         <mark key="]" line="29" column="16" />
         <mark key="^" line="14" column="32" />
@@ -62,6 +62,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
